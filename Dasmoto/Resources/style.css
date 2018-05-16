@@ -1,0 +1,44 @@
+/* CSS Link Test
+body{background-color: blue}
+*/
+
+/*Set all font-family to Helverica*/
+body{
+  font-family: Helvetica;
+}
+
+/*Heading Text*/
+h1{
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+/*Price Highligh*/
+.BluePrice{
+  font-weight: bold;
+  color: blue;
+}
+
+/*Subheading font format*/
+.stock h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Brushes subheading color*/
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+/* Frames subheading color*/
+#frames{
+  background-color: lightcoral;
+}
+
+/* Paint subheading color*/
+#paint{
+  background-color: skyblue;
+}
